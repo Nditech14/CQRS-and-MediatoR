@@ -1,0 +1,8 @@
+﻿namespace CQRS_Pattern.Product
+{
+    public class Product
+    {
+        public int Id { get; set;}
+        public string ?Name { get; set;}
+    }
+}

@@ -1,0 +1,36 @@
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\appsettings.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\CQRS Pattern.exe
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\CQRS Pattern.deps.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\CQRS Pattern.runtimeconfig.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\CQRS Pattern.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\CQRS Pattern.pdb
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\MediatR.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.csproj.AssemblyReference.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.AssemblyInfoInputs.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.AssemblyInfo.cs
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\staticwebassets\msbuild.CQRS Pattern.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\staticwebassets\msbuild.build.CQRS Pattern.props
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CQRS Pattern.props
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CQRS Pattern.props
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\scopedcss\bundle\CQRS Pattern.styles.css
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.csproj.CopyComplete
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\refint\CQRS Pattern.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.pdb
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\CQRS Pattern.genruntimeconfig.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\CQRS Pattern\obj\Debug\net7.0\ref\CQRS Pattern.dll

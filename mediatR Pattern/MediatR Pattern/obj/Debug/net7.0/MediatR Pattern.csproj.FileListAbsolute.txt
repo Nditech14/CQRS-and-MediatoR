@@ -1,0 +1,36 @@
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\appsettings.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\MediatR Pattern.exe
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\MediatR Pattern.deps.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\MediatR Pattern.runtimeconfig.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\MediatR Pattern.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\MediatR Pattern.pdb
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\MediatR.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.csproj.AssemblyReference.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.AssemblyInfoInputs.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.AssemblyInfo.cs
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\staticwebassets\msbuild.MediatR Pattern.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\staticwebassets\msbuild.build.MediatR Pattern.props
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MediatR Pattern.props
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MediatR Pattern.props
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\scopedcss\bundle\MediatR Pattern.styles.css
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.csproj.CopyComplete
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\refint\MediatR Pattern.dll
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.pdb
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\MediatR Pattern.genruntimeconfig.cache
+C:\Users\Decagon L\OneDrive\Desktop\CQRS Pattern Project\mediatR Pattern\MediatR Pattern\obj\Debug\net7.0\ref\MediatR Pattern.dll
